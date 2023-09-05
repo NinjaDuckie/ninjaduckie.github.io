@@ -1,2 +1,1 @@
-# ninjaduckie.github.io
-GitHub Pages Setup
+Site work in progress! Check back soon.
