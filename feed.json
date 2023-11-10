@@ -1,0 +1,136 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Wizard City",
+    "description": "",
+    "home_page_url": "file:///C:\Users\Christopher\Documents\Publii\sites\wizard-city\preview",
+    "feed_url": "file:///C:\Users\Christopher\Documents\Publii\sites\wizard-city\preview/feed.json",
+    "user_comment": "",
+    "icon": "file:///C:/Users/Christopher/Documents/Publii/sites/wizard-city/preview/media/website/pointy-hat-logo.png",
+    "author": {
+        "name": "NinjaDuckie"
+    },
+    "items": [
+        {
+            "id": "file:///C:\Users\Christopher\Documents\Publii\sites\wizard-city\preview/video-games/index.html",
+            "url": "file:///C:\Users\Christopher\Documents\Publii\sites\wizard-city\preview/video-games/index.html",
+            "title": "Video Games",
+            "author": {
+                "name": "NinjaDuckie"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-10-12T17:54:15+01:00",
+            "date_modified": "2023-10-12T17:54:15+01:00"
+        },
+        {
+            "id": "file:///C:\Users\Christopher\Documents\Publii\sites\wizard-city\preview/puzzles/index.html",
+            "url": "file:///C:\Users\Christopher\Documents\Publii\sites\wizard-city\preview/puzzles/index.html",
+            "title": "Puzzles",
+            "author": {
+                "name": "NinjaDuckie"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-10-12T17:54:12+01:00",
+            "date_modified": "2023-10-12T17:54:12+01:00"
+        },
+        {
+            "id": "file:///C:\Users\Christopher\Documents\Publii\sites\wizard-city\preview/tabletop/index.html",
+            "url": "file:///C:\Users\Christopher\Documents\Publii\sites\wizard-city\preview/tabletop/index.html",
+            "title": "Tabletop",
+            "author": {
+                "name": "NinjaDuckie"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-10-12T17:54:08+01:00",
+            "date_modified": "2023-10-12T17:54:08+01:00"
+        },
+        {
+            "id": "file:///C:\Users\Christopher\Documents\Publii\sites\wizard-city\preview/music/index.html",
+            "url": "file:///C:\Users\Christopher\Documents\Publii\sites\wizard-city\preview/music/index.html",
+            "title": "Music",
+            "author": {
+                "name": "NinjaDuckie"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-10-12T17:54:03+01:00",
+            "date_modified": "2023-10-12T17:54:03+01:00"
+        },
+        {
+            "id": "file:///C:\Users\Christopher\Documents\Publii\sites\wizard-city\preview/languages/index.html",
+            "url": "file:///C:\Users\Christopher\Documents\Publii\sites\wizard-city\preview/languages/index.html",
+            "title": "Languages",
+            "author": {
+                "name": "NinjaDuckie"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-10-12T17:53:59+01:00",
+            "date_modified": "2023-10-12T17:53:59+01:00"
+        },
+        {
+            "id": "file:///C:\Users\Christopher\Documents\Publii\sites\wizard-city\preview/reading/index.html",
+            "url": "file:///C:\Users\Christopher\Documents\Publii\sites\wizard-city\preview/reading/index.html",
+            "title": "Reading",
+            "author": {
+                "name": "NinjaDuckie"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-10-12T17:53:53+01:00",
+            "date_modified": "2023-10-12T17:53:53+01:00"
+        },
+        {
+            "id": "file:///C:\Users\Christopher\Documents\Publii\sites\wizard-city\preview/other-volunteering/index.html",
+            "url": "file:///C:\Users\Christopher\Documents\Publii\sites\wizard-city\preview/other-volunteering/index.html",
+            "title": "Other Volunteering",
+            "author": {
+                "name": "NinjaDuckie"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-10-12T17:51:44+01:00",
+            "date_modified": "2023-10-12T17:51:44+01:00"
+        },
+        {
+            "id": "file:///C:\Users\Christopher\Documents\Publii\sites\wizard-city\preview/adobe-suite/index.html",
+            "url": "file:///C:\Users\Christopher\Documents\Publii\sites\wizard-city\preview/adobe-suite/index.html",
+            "title": "Adobe Suite",
+            "author": {
+                "name": "NinjaDuckie"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-10-12T17:51:35+01:00",
+            "date_modified": "2023-10-12T17:51:35+01:00"
+        },
+        {
+            "id": "file:///C:\Users\Christopher\Documents\Publii\sites\wizard-city\preview/discworld-mud/index.html",
+            "url": "file:///C:\Users\Christopher\Documents\Publii\sites\wizard-city\preview/discworld-mud/index.html",
+            "title": "Discworld MUD",
+            "author": {
+                "name": "NinjaDuckie"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-10-12T17:51:20+01:00",
+            "date_modified": "2023-10-12T17:51:20+01:00"
+        },
+        {
+            "id": "file:///C:\Users\Christopher\Documents\Publii\sites\wizard-city\preview/opus-2/index.html",
+            "url": "file:///C:\Users\Christopher\Documents\Publii\sites\wizard-city\preview/opus-2/index.html",
+            "title": "Opus 2",
+            "summary": "I started at Opus 2 in 2012 as a temp doing Data Entry. Within half a year I was working in their technical team, delivering hardware solutions for court and arbitration transcriptions, and helping to pioneer the prototype of their now flagship product, Magnum, a&hellip;",
+            "content_html": "<p>I started at Opus 2 in 2012 as a temp doing Data Entry. Within half a year I was working in their technical team, delivering hardware solutions for court and arbitration transcriptions, and helping to pioneer the prototype of their now flagship product, Magnum, a platform for hosting evidence, arguments, transcripts, team communication, and whatever else was needed for such legal proceedings.</p>\n<p>In the five years that followed I spearheaded the opening of their Singapore office by training new staff on-site in the Singapore supreme court, and provided live technical assistance at private arbitrations around the world, including Osaka, Miami, Geneva, the Hague, and even St. Vincent &amp; the Grenadines.</p>\n<p>When I was not globetrotting or working in the local courts, I provided internal IT support, assisted with the production and delivery of printed and digital transcripts, produced 3D-modeled marketing videos to demonstrate and sell new product solutions, and kept morale up running after-hours tabletop games nights midweek.</p>\n<p>I departed Opus 2 in 2017.</p>",
+            "author": {
+                "name": "NinjaDuckie"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-10-12T17:51:08+01:00",
+            "date_modified": "2023-10-18T03:31:06+01:00"
+        }
+    ]
+}
