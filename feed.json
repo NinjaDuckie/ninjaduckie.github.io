@@ -74,13 +74,15 @@
             "id": "https://wizard.city/reading/",
             "url": "https://wizard.city/reading/",
             "title": "Reading",
+            "summary": "I deeply enjoy science fiction and fantasy, especially if it's light-hearted: you can often find my nose buried in a Discworld novel. ",
+            "content_html": "<p>I deeply enjoy science fiction and fantasy, especially if it's light-hearted: you can often find my nose buried in a Discworld novel. </p>",
             "author": {
                 "name": "NinjaDuckie"
             },
             "tags": [
             ],
             "date_published": "2023-10-12T17:53:53+01:00",
-            "date_modified": "2023-10-12T17:53:53+01:00"
+            "date_modified": "2024-05-30T02:38:10+01:00"
         },
         {
             "id": "https://wizard.city/other-volunteering/",
@@ -110,27 +112,31 @@
             "id": "https://wizard.city/discworld-mud/",
             "url": "https://wizard.city/discworld-mud/",
             "title": "Discworld MUD",
+            "summary": "This free-to-play text-based adventure game set in the mostly-flat, circular world-supported-by-elephants-on-a-space-turtle conceived by the late Sir Terry Pratchett has been running since 1992. I had the privilege of becoming a member of the development team in 2023 and have been learning the aging C# systems&hellip;",
+            "content_html": "<p>This <a href=\"https://discworld.starturtle.net/lpc/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">free-to-play text-based adventure game</a> set in the mostly-flat, circular world-supported-by-elephants-on-a-space-turtle conceived by the late Sir Terry Pratchett has been running since 1992. I had the privilege of becoming a member of the development team in 2023 and have been learning the aging C# systems for creating content therein.</p>\n<p>The development team is incredibly encouraging and welcoming to new developers, and the community still thrives after 30 years, with things like <a href=\"https://dw.daftjunk.com/index.html\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Kefka's map &amp; item database</a> (left, the map of Ankh-Morpork) or Quow's <a href=\"https://quow.co.uk/mushclient.php\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">dedicated MUSHclient package</a> replete with various plugins that allow the playerbase to engage with a number of QoL improvements.</p>\n<p>I plan to contribute to this project for as long as it is operational.</p>\n<p><code>GNU Terry Pratchett.</code></p>",
+            "image": "https://wizard.city/media/posts/6/Ankh-Morpork.png",
             "author": {
                 "name": "NinjaDuckie"
             },
             "tags": [
             ],
             "date_published": "2023-10-12T17:51:20+01:00",
-            "date_modified": "2023-10-12T17:51:20+01:00"
+            "date_modified": "2024-05-29T13:14:03+01:00"
         },
         {
             "id": "https://wizard.city/opus-2/",
             "url": "https://wizard.city/opus-2/",
             "title": "Opus 2",
-            "summary": "I started at Opus 2 in 2012 as a temp doing Data Entry. Within half a year I was working in their technical team, delivering hardware solutions for court and arbitration transcriptions, and helping to pioneer the prototype of their now flagship product, Magnum, a&hellip;",
-            "content_html": "<p>I started at Opus 2 in 2012 as a temp doing Data Entry. Within half a year I was working in their technical team, delivering hardware solutions for court and arbitration transcriptions, and helping to pioneer the prototype of their now flagship product, Magnum, a platform for hosting evidence, arguments, transcripts, team communication, and whatever else was needed for such legal proceedings.</p>\n<p>In the five years that followed I spearheaded the opening of their Singapore office by training new staff on-site in the Singapore supreme court, and provided live technical assistance at private arbitrations around the world, including Osaka, Miami, Geneva, the Hague, and even St. Vincent &amp; the Grenadines.</p>\n<p>When I was not globetrotting or working in the local courts, I provided internal IT support, assisted with the production and delivery of printed and digital transcripts, produced 3D-modeled marketing videos to demonstrate and sell new product solutions, and kept morale up running after-hours tabletop games nights midweek.</p>\n<p>I departed Opus 2 in 2017.</p>",
+            "summary": "I started at Opus 2 in 2012 as a temp. Within half a year I was in their technical team, delivering hardware solutions for court and arbitration transcriptions, and helping pioneer the prototype of their flagship product, Magnum, a unified legal proceedings platform for evidence,&hellip;",
+            "content_html": "<p>I started at <a href=\"https://www.opus2.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Opus 2</a> in 2012 as a temp. Within half a year I was in their technical team, delivering hardware solutions for court and arbitration transcriptions, and helping pioneer the prototype of their flagship product, Magnum, a unified legal proceedings platform for evidence, arguments, transcripts, comms, etc.</p>\n<p>In the five years that followed, I prepared the Singapore office and trained staff in the Singapore supreme court, and provided on-site assistance at private arbitration sites including Osaka, Miami, Geneva, the Hague, and even St. Vincent &amp; the Grenadines.</p>\n<p>When I was not globetrotting or working in the courts, I provided internal IT support, assisted with production and delivery of printed and digital transcripts, produced 3D marketing videos to demonstrate new product solutions, and kept morale up running after-hours tabletop games nights midweek.</p>\n<p>I departed Opus 2 in 2017 when I was headhunted by <a href=\"https://wizard.city/harneys/\" rel=\"nofollow\">a different firm</a>.</p>",
+            "image": "https://wizard.city/media/posts/5/idrc.jpg",
             "author": {
                 "name": "NinjaDuckie"
             },
             "tags": [
             ],
             "date_published": "2023-10-12T17:51:08+01:00",
-            "date_modified": "2023-10-18T03:31:06+01:00"
+            "date_modified": "2024-05-30T02:35:11+01:00"
         }
     ]
 }
