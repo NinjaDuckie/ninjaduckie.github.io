@@ -11,104 +11,6 @@
     },
     "items": [
         {
-            "id": "https://wizard.city/video-games/",
-            "url": "https://wizard.city/video-games/",
-            "title": "Video Games",
-            "author": {
-                "name": "NinjaDuckie"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-10-12T17:54:15+01:00",
-            "date_modified": "2023-10-12T17:54:15+01:00"
-        },
-        {
-            "id": "https://wizard.city/puzzles/",
-            "url": "https://wizard.city/puzzles/",
-            "title": "Puzzles",
-            "author": {
-                "name": "NinjaDuckie"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-10-12T17:54:12+01:00",
-            "date_modified": "2023-10-12T17:54:12+01:00"
-        },
-        {
-            "id": "https://wizard.city/tabletop/",
-            "url": "https://wizard.city/tabletop/",
-            "title": "Tabletop",
-            "author": {
-                "name": "NinjaDuckie"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-10-12T17:54:08+01:00",
-            "date_modified": "2023-10-12T17:54:08+01:00"
-        },
-        {
-            "id": "https://wizard.city/music/",
-            "url": "https://wizard.city/music/",
-            "title": "Music",
-            "author": {
-                "name": "NinjaDuckie"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-10-12T17:54:03+01:00",
-            "date_modified": "2023-10-12T17:54:03+01:00"
-        },
-        {
-            "id": "https://wizard.city/languages/",
-            "url": "https://wizard.city/languages/",
-            "title": "Languages",
-            "author": {
-                "name": "NinjaDuckie"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-10-12T17:53:59+01:00",
-            "date_modified": "2023-10-12T17:53:59+01:00"
-        },
-        {
-            "id": "https://wizard.city/reading/",
-            "url": "https://wizard.city/reading/",
-            "title": "Reading",
-            "summary": "I deeply enjoy science fiction and fantasy, especially if it's light-hearted: you can often find my nose buried in a Discworld novel. ",
-            "content_html": "<p>I deeply enjoy science fiction and fantasy, especially if it's light-hearted: you can often find my nose buried in a Discworld novel. </p>",
-            "author": {
-                "name": "NinjaDuckie"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-10-12T17:53:53+01:00",
-            "date_modified": "2024-05-30T02:38:10+01:00"
-        },
-        {
-            "id": "https://wizard.city/other-volunteering/",
-            "url": "https://wizard.city/other-volunteering/",
-            "title": "Other Volunteering",
-            "author": {
-                "name": "NinjaDuckie"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-10-12T17:51:44+01:00",
-            "date_modified": "2023-10-12T17:51:44+01:00"
-        },
-        {
-            "id": "https://wizard.city/adobe-suite/",
-            "url": "https://wizard.city/adobe-suite/",
-            "title": "Adobe Suite",
-            "author": {
-                "name": "NinjaDuckie"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-10-12T17:51:35+01:00",
-            "date_modified": "2023-10-12T17:51:35+01:00"
-        },
-        {
             "id": "https://wizard.city/discworld-mud/",
             "url": "https://wizard.city/discworld-mud/",
             "title": "Discworld MUD",
@@ -137,6 +39,51 @@
             ],
             "date_published": "2023-10-12T17:51:08+01:00",
             "date_modified": "2024-05-30T02:35:11+01:00"
+        },
+        {
+            "id": "https://wizard.city/harneys/",
+            "url": "https://wizard.city/harneys/",
+            "title": "Harneys",
+            "summary": "I joined Harney Westwood &amp; Riegels LLP as a Contract Express specialist, converting complex legal &amp; government forms into human-readable documents. After six months, I transitioned into IT, becoming lead Operations Engineer for the London, Luxembourg and Cyprus offices, and providing support for the Hong&hellip;",
+            "content_html": "<p>I joined <a href=\"https://www.harneys.com/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Harney Westwood &amp; Riegels LLP</a> as a <a href=\"https://www.thomsonreuters.in/en/products-services/legal/contract-express.html\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Contract Express</a> specialist, converting complex legal &amp; government forms into human-readable documents. After six months, I transitioned into IT, becoming lead Operations Engineer for the London, Luxembourg and Cyprus offices, and providing support for the Hong Kong, British Virgin Islands &amp; Cayman Islands offices.</p>\n<p>I served as a fixture of the IT department and assisted staff in all twelve of our office sites through the ticketing system and on the phone. I led deployment of multiple IT systems, and wrote various papers on how to improve processes.</p>\n<p>In this role I took ownership of Airwatch and on-site biometric security. During the COVID-19 pandemic, I supported Horizon virtual desktop infrastructure, distributed home office hardware, and was first point of contact for new user inductions across the three European offices.</p>\n<p>I left Harneys in August 2022 to briefly join <a href=\"https://wizard.city/the-game-band/\" rel=\"nofollow\">The Game Band</a>, returning in 2024.</p>",
+            "image": "https://wizard.city/media/posts/4/harneys.png",
+            "author": {
+                "name": "NinjaDuckie"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-10-12T17:51:03+01:00",
+            "date_modified": "2024-05-30T02:54:20+01:00"
+        },
+        {
+            "id": "https://wizard.city/the-game-band/",
+            "url": "https://wizard.city/the-game-band/",
+            "title": "The Game Band",
+            "summary": "I had been doing volunteer work with Blaseball from September of 2020; in August of 2022, I quit my existing job, and by December I was working for TGB on contract. Together with the six other paid members of the community team, and 21 volunteers,&hellip;",
+            "content_html": "<p>I had been doing volunteer work with Blaseball from September of 2020; in August of 2022, I quit my <a href=\"https://wizard.city/harneys/\" rel=\"nofollow\">existing job</a>, and by December I was working for TGB on contract.</p>\n<p>Together with the six other paid members of the community team, and 21 volunteers, we successfully wrangled the whims of 30,000+ people in a Discord server, fostering communication skills and a caring attitude in the community as a whole while still maintaining an individual competitive spirit for each of the 24 teams.</p>\n<p>While in this role I worked with a Discord bot called <a href=\"https://docs.carl.gg/#/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Carl</a>, personally setting up over 120 unique Tagscript snippets enabling members to interact with the bot and each other. I also supplemented existing graphics by <a href=\"https://imgur.com/a/blaseball-community-work-PXaOyx7\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">producing Discord \"banners\"</a> in Photoshop, highlighting recent important events in the game or community.</p>\n<p>Blaseball was cancelled on June 2nd, 2023, and I moved back to IT work.</p>",
+            "image": "https://wizard.city/media/posts/3/The-Game-Band-Website-Photo_2.jpg",
+            "author": {
+                "name": "NinjaDuckie"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-10-12T17:50:58+01:00",
+            "date_modified": "2024-05-29T13:35:32+01:00"
+        },
+        {
+            "id": "https://wizard.city/why-wizard-city/",
+            "url": "https://wizard.city/why-wizard-city/",
+            "title": "WIZARD CITY?",
+            "summary": "wizard noun ˈwi-zərd ˈsi-tē &lt; BACK",
+            "content_html": "<h2>wizard    <em>noun</em></h2>\n<p><em>ˈwi-zərd</em></p>\n<ol>\n<li>wielder of magic</li>\n<li><strong>a very skillful person</strong></li>\n</ol>\n<h2>city    <em>noun</em></h2>\n<p><em>ˈsi-tē</em></p>\n<ol>\n<li>an inhabited place of greater size, population, or importance than a town or village</li>\n<li><strong>a fun and easy to remember top-level domain</strong></li>\n</ol>\n<p><a href=\"https://wizard.city\" rel=\"nofollow\">&lt; BACK</a></p>",
+            "image": "https://wizard.city/media/posts/2/wizard-2021410_1280.jpg",
+            "author": {
+                "name": "NinjaDuckie"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-09-04T12:48:10+01:00",
+            "date_modified": "2024-05-29T13:19:12+01:00"
         }
     ]
 }

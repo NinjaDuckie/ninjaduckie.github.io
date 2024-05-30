@@ -3,116 +3,12 @@
     <title>Wizard City</title>
     <link href="https://wizard.city/feed.xml" rel="self" />
     <link href="https://wizard.city" />
-    <updated>2024-05-30T02:38:10+01:00</updated>
+    <updated>2024-05-30T02:54:20+01:00</updated>
     <author>
         <name>NinjaDuckie</name>
     </author>
     <id>https://wizard.city</id>
 
-    <entry>
-        <title>Video Games</title>
-        <author>
-            <name>NinjaDuckie</name>
-        </author>
-        <link href="https://wizard.city/video-games/"/>
-        <id>https://wizard.city/video-games/</id>
-
-        <updated>2023-10-12T17:54:15+01:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Puzzles</title>
-        <author>
-            <name>NinjaDuckie</name>
-        </author>
-        <link href="https://wizard.city/puzzles/"/>
-        <id>https://wizard.city/puzzles/</id>
-
-        <updated>2023-10-12T17:54:12+01:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Tabletop</title>
-        <author>
-            <name>NinjaDuckie</name>
-        </author>
-        <link href="https://wizard.city/tabletop/"/>
-        <id>https://wizard.city/tabletop/</id>
-
-        <updated>2023-10-12T17:54:08+01:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Music</title>
-        <author>
-            <name>NinjaDuckie</name>
-        </author>
-        <link href="https://wizard.city/music/"/>
-        <id>https://wizard.city/music/</id>
-
-        <updated>2023-10-12T17:54:03+01:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Languages</title>
-        <author>
-            <name>NinjaDuckie</name>
-        </author>
-        <link href="https://wizard.city/languages/"/>
-        <id>https://wizard.city/languages/</id>
-
-        <updated>2023-10-12T17:53:59+01:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Reading</title>
-        <author>
-            <name>NinjaDuckie</name>
-        </author>
-        <link href="https://wizard.city/reading/"/>
-        <id>https://wizard.city/reading/</id>
-
-        <updated>2024-05-30T02:38:10+01:00</updated>
-            <summary>
-                <![CDATA[
-                    I deeply enjoy science fiction and fantasy, especially if it's light-hearted: you can often find my nose buried in a Discworld novel. 
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>I deeply enjoy science fiction and fantasy, especially if it's light-hearted: you can often find my nose buried in a Discworld novel. </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Other Volunteering</title>
-        <author>
-            <name>NinjaDuckie</name>
-        </author>
-        <link href="https://wizard.city/other-volunteering/"/>
-        <id>https://wizard.city/other-volunteering/</id>
-
-        <updated>2023-10-12T17:51:44+01:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Adobe Suite</title>
-        <author>
-            <name>NinjaDuckie</name>
-        </author>
-        <link href="https://wizard.city/adobe-suite/"/>
-        <id>https://wizard.city/adobe-suite/</id>
-
-        <updated>2023-10-12T17:51:35+01:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
     <entry>
         <title>Discworld MUD</title>
         <author>
@@ -162,6 +58,93 @@
 <p>In the five years that followed, I prepared the Singapore office and trained staff in the Singapore supreme court, and provided on-site assistance at private arbitration sites including Osaka, Miami, Geneva, the Hague, and even St. Vincent &amp; the Grenadines.</p>
 <p>When I was not globetrotting or working in the courts, I provided internal IT support, assisted with production and delivery of printed and digital transcripts, produced 3D marketing videos to demonstrate new product solutions, and kept morale up running after-hours tabletop games nights midweek.</p>
 <p>I departed Opus 2 in 2017 when I was headhunted by <a href="https://wizard.city/harneys/" rel="nofollow">a different firm</a>.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Harneys</title>
+        <author>
+            <name>NinjaDuckie</name>
+        </author>
+        <link href="https://wizard.city/harneys/"/>
+        <id>https://wizard.city/harneys/</id>
+        <media:content url="https://wizard.city/media/posts/4/harneys.png" medium="image" />
+
+        <updated>2024-05-30T02:54:20+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://wizard.city/media/posts/4/harneys.png" alt="" />
+                    I joined Harney Westwood &amp; Riegels LLP as a Contract Express specialist, converting complex legal &amp; government forms into human-readable documents. After six months, I transitioned into IT, becoming lead Operations Engineer for the London, Luxembourg and Cyprus offices, and providing support for the Hong&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://wizard.city/media/posts/4/harneys.png" class="type:primaryImage" alt="" /></p>
+                <p>I joined <a href="https://www.harneys.com/" target="_blank" rel="nofollow noopener noreferrer">Harney Westwood &amp; Riegels LLP</a> as a <a href="https://www.thomsonreuters.in/en/products-services/legal/contract-express.html" target="_blank" rel="nofollow noopener noreferrer">Contract Express</a> specialist, converting complex legal &amp; government forms into human-readable documents. After six months, I transitioned into IT, becoming lead Operations Engineer for the London, Luxembourg and Cyprus offices, and providing support for the Hong Kong, British Virgin Islands &amp; Cayman Islands offices.</p>
+<p>I served as a fixture of the IT department and assisted staff in all twelve of our office sites through the ticketing system and on the phone. I led deployment of multiple IT systems, and wrote various papers on how to improve processes.</p>
+<p>In this role I took ownership of Airwatch and on-site biometric security. During the COVID-19 pandemic, I supported Horizon virtual desktop infrastructure, distributed home office hardware, and was first point of contact for new user inductions across the three European offices.</p>
+<p>I left Harneys in August 2022 to briefly join <a href="https://wizard.city/the-game-band/" rel="nofollow">The Game Band</a>, returning in 2024.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>The Game Band</title>
+        <author>
+            <name>NinjaDuckie</name>
+        </author>
+        <link href="https://wizard.city/the-game-band/"/>
+        <id>https://wizard.city/the-game-band/</id>
+        <media:content url="https://wizard.city/media/posts/3/The-Game-Band-Website-Photo_2.jpg" medium="image" />
+
+        <updated>2024-05-29T13:35:32+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://wizard.city/media/posts/3/The-Game-Band-Website-Photo_2.jpg" alt="" />
+                    I had been doing volunteer work with Blaseball from September of 2020; in August of 2022, I quit my existing job, and by December I was working for TGB on contract. Together with the six other paid members of the community team, and 21 volunteers,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://wizard.city/media/posts/3/The-Game-Band-Website-Photo_2.jpg" class="type:primaryImage" alt="" /></p>
+                <p>I had been doing volunteer work with Blaseball from September of 2020; in August of 2022, I quit my <a href="https://wizard.city/harneys/" rel="nofollow">existing job</a>, and by December I was working for TGB on contract.</p>
+<p>Together with the six other paid members of the community team, and 21 volunteers, we successfully wrangled the whims of 30,000+ people in a Discord server, fostering communication skills and a caring attitude in the community as a whole while still maintaining an individual competitive spirit for each of the 24 teams.</p>
+<p>While in this role I worked with a Discord bot called <a href="https://docs.carl.gg/#/" target="_blank" rel="nofollow noopener noreferrer">Carl</a>, personally setting up over 120 unique Tagscript snippets enabling members to interact with the bot and each other. I also supplemented existing graphics by <a href="https://imgur.com/a/blaseball-community-work-PXaOyx7" target="_blank" rel="nofollow noopener noreferrer">producing Discord "banners"</a> in Photoshop, highlighting recent important events in the game or community.</p>
+<p>Blaseball was cancelled on June 2nd, 2023, and I moved back to IT work.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>WIZARD CITY?</title>
+        <author>
+            <name>NinjaDuckie</name>
+        </author>
+        <link href="https://wizard.city/why-wizard-city/"/>
+        <id>https://wizard.city/why-wizard-city/</id>
+        <media:content url="https://wizard.city/media/posts/2/wizard-2021410_1280.jpg" medium="image" />
+
+        <updated>2024-05-29T13:19:12+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://wizard.city/media/posts/2/wizard-2021410_1280.jpg" alt="Photograph of Lego Gandalf minifig walking in the moss by Aitoff from Pixabay." />
+                    wizard noun ˈwi-zərd ˈsi-tē &lt; BACK
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://wizard.city/media/posts/2/wizard-2021410_1280.jpg" class="type:primaryImage" alt="Photograph of Lego Gandalf minifig walking in the moss by Aitoff from Pixabay." /></p>
+                <h2>wizard    <em>noun</em></h2>
+<p><em>ˈwi-zərd</em></p>
+<ol>
+<li>wielder of magic</li>
+<li><strong>a very skillful person</strong></li>
+</ol>
+<h2>city    <em>noun</em></h2>
+<p><em>ˈsi-tē</em></p>
+<ol>
+<li>an inhabited place of greater size, population, or importance than a town or village</li>
+<li><strong>a fun and easy to remember top-level domain</strong></li>
+</ol>
+<p><a href="https://wizard.city" rel="nofollow">&lt; BACK</a></p>
             ]]>
         </content>
     </entry>
