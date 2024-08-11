@@ -3,7 +3,7 @@
     <title>Wizard City</title>
     <link href="https://wizard.city/feed.xml" rel="self" />
     <link href="https://wizard.city" />
-    <updated>2024-05-30T02:54:20+01:00</updated>
+    <updated>2024-08-11T02:35:01+01:00</updated>
     <author>
         <name>NinjaDuckie</name>
     </author>
@@ -18,19 +18,18 @@
         <id>https://wizard.city/discworld-mud/</id>
         <media:content url="https://wizard.city/media/posts/6/Ankh-Morpork.png" medium="image" />
 
-        <updated>2024-05-29T13:14:03+01:00</updated>
+        <updated>2024-08-11T02:35:01+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://wizard.city/media/posts/6/Ankh-Morpork.png" alt="Kefka&#x27;s map of the city of Ankh-Morpork." />
-                    This free-to-play text-based adventure game set in the mostly-flat, circular world-supported-by-elephants-on-a-space-turtle conceived by the late Sir Terry Pratchett has been running since 1992. I had the privilege of becoming a member of the development team in 2023 and have been learning the aging C# systems&hellip;
+                    This free-to-play text-based adventure game set in the mostly-flat, circular world-supported-by-elephants-on-a-space-turtle conceived by the late Sir Terry Pratchett has been running since 1992. I had the privilege of becoming a member of the development team in 2023 and learned some aging C# systems for creating&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://wizard.city/media/posts/6/Ankh-Morpork.png" class="type:primaryImage" alt="Kefka&#x27;s map of the city of Ankh-Morpork." /></p>
-                <p>This <a href="https://discworld.starturtle.net/lpc/" target="_blank" rel="nofollow noopener noreferrer">free-to-play text-based adventure game</a> set in the mostly-flat, circular world-supported-by-elephants-on-a-space-turtle conceived by the late Sir Terry Pratchett has been running since 1992. I had the privilege of becoming a member of the development team in 2023 and have been learning the aging C# systems for creating content therein.</p>
+                <p>This <a href="https://discworld.starturtle.net/lpc/" target="_blank" rel="nofollow noopener noreferrer">free-to-play text-based adventure game</a> set in the mostly-flat, circular world-supported-by-elephants-on-a-space-turtle conceived by the late Sir Terry Pratchett has been running since 1992. I had the privilege of becoming a member of the development team in 2023 and learned some aging C# systems for creating content therein.</p>
 <p>The development team is incredibly encouraging and welcoming to new developers, and the community still thrives after 30 years, with things like <a href="https://dw.daftjunk.com/index.html" target="_blank" rel="nofollow noopener noreferrer">Kefka's map &amp; item database</a> (left, the map of Ankh-Morpork) or Quow's <a href="https://quow.co.uk/mushclient.php" target="_blank" rel="nofollow noopener noreferrer">dedicated MUSHclient package</a> replete with various plugins that allow the playerbase to engage with a number of QoL improvements.</p>
-<p>I plan to contribute to this project for as long as it is operational.</p>
 <p><code>GNU Terry Pratchett.</code></p>
             ]]>
         </content>
